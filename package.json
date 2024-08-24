@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-filesystem",
+  "version": "1.0.0",
+  "description": "nodejs-filesystem",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev":"nodemon ./src/index.js"
+  },
+  "author": "susenthraprabu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
